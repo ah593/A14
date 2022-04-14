@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  main {
+    height: 95vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  footer p{
+    margin: auto;
+	text-align: center;
+	background-color: plum;;
+	color: white;
+	padding: 1em;
+	clear: right;
+}
